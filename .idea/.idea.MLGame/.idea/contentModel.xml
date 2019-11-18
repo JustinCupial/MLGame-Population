@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Letha\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Letha\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_MLGame.1004101321.00" t="ExcludeRecursive" />
+    <e p="R:\Unity\Projects\MLGame" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Population" t="Include">
+          <e p="DNA.cs" t="Include" />
+          <e p="PopulationManager.cs" t="Include" />
+        </e>
+      </e>
+      <e p="MLGame.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
